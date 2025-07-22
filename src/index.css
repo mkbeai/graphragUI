@@ -1,0 +1,15 @@
+body > iframe#webpack-dev-server-client-overlay {
+  display: none !important;
+}
+@import url('https://fonts.googleapis.com/css2?family=Vazirmatn:wght@400;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Vazirmatn', Arial, sans-serif;
+  background: #f4f8fb;
+  color: #222b45;
+}
+
+#root {
+  height: 100vh;
+}
